@@ -53,11 +53,13 @@ Here is some material to go through before you begin:
 
 1. This is a beautiful picture book about a little girl. It talks about certain things that I think all of us could use some reminding of from time to time. 
 
-<iframe src="https://docs.google.com/viewer?url=https://vaaneetripathi.github.io/assets/mymostmagnificentthing.pdf&embedded=true" width="100%" height="600px" style="border: none;"></iframe>
+<object data="/assets/mymostmagnificentthing.pdf#page=1" type="application/pdf" width="100%" height="600px">
+  <p>Your browser doesn't support embedded PDFs. <a href="/assets/mymostmagnificentthing.pdf">Download the PDF</a> instead.</p>
+</object>
 
-[Download PDF](/assets/mymostmagnificentthing.pdf)
+<!-- [Download PDF](/assets/mymostmagnificentthing.pdf)
 
-[Download PDF](/assets/mymostmagnificentthing.pdf)
+[Download PDF](/assets/mymostmagnificentthing.pdf) -->
 
 2.  An article to understand the plethora of materials one can work with! This is really nice to open up one's mind about what all is possible.
 [The said article](https://www.aknamarquez.com/blog/2018/diymaterials)
