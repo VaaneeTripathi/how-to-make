@@ -51,9 +51,10 @@ For this week, I will be working with cardboard, ice-cream sticks, paints, therm
 Here is some material to go through before you begin:
 
 [MANDATORY]
-<object data="/assets/assets/The Most Magnificent Thing -- Ashley Spires -- 2014 -- 920f7aaf04d46725e275325ad55331d5 -- Anna’s Archive.pdf" type="application/pdf" width="700px" height="700px">
-<p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/assets/The Most Magnificent Thing -- Ashley Spires -- 2014 -- 920f7aaf04d46725e275325ad55331d5 -- Anna’s Archive.pdf">Download PDF</a>.</p>
+<object data="/assets/The Most Magnificent Thing -- Ashley Spires -- 2014 -- 920f7aaf04d46725e275325ad55331d5 -- Anna’s Archive.pdf" type="application/pdf" width="700px" height="700px">
+<p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/The Most Magnificent Thing -- Ashley Spires -- 2014 -- 920f7aaf04d46725e275325ad55331d5 -- Anna’s Archive.pdf">Download PDF</a>.</p>
 </object>
+
 
 [OPTIONAL] An article to understand the plethora of materials one can work with!
 [text](https://www.aknamarquez.com/blog/2018/diymaterials)
