@@ -53,7 +53,7 @@ Here is some material to go through before you begin:
 
 1. This is a beautiful picture book about a little girl. It talks about certain things that I think all of us could use some reminding of from time to time. 
 
-<embed src="{{ site.baseurl }}/assets/mymostmagnificentthing.pdf#page=1" type="application/pdf" width="100%" height="600px" />
+<iframe src="/assets/mymostmagnificentthing.pdf#page=1" width="100%" height="600px" style="border: none;"></iframe>
 
 [Download PDF](/assets/mymostmagnificentthing.pdf)
 
