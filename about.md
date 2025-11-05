@@ -50,13 +50,12 @@ For this week, I will be working with cardboard, ice-cream sticks, paints, therm
 
 Here is some material to go through before you begin:
 
-[MANDATORY]
-<object data="/assets/The Most Magnificent Thing -- Ashley Spires -- 2014 -- 920f7aaf04d46725e275325ad55331d5 -- Anna’s Archive.pdf" type="application/pdf" width="700px" height="700px">
-<p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/The Most Magnificent Thing -- Ashley Spires -- 2014 -- 920f7aaf04d46725e275325ad55331d5 -- Anna’s Archive.pdf">Download PDF</a>.</p>
-</object>
 
+1. This is a beautiful picture book about a little girl. It talks about certain things that I think all of us could use some reminding of from time to time. 
 
-[OPTIONAL] An article to understand the plethora of materials one can work with!
+[Download my PDF](/assets/mymostmagnificentthing.pdf)
+
+2.  An article to understand the plethora of materials one can work with! This is really nice to open up one's mind about what all is possible
 [text](https://www.aknamarquez.com/blog/2018/diymaterials)
 
 See you in class! <3
