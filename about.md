@@ -4,7 +4,7 @@ title: About
 description: >-
     Course policies and information.
 ---
-
+<!-- 
 # About
 {:.no_toc}
 
@@ -14,20 +14,48 @@ description: >-
 1. TOC
 {:toc}
 
----
+--- -->
 
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+Hello! So, I have been feeling a little out-of-touch at the Makerspace and more importantly with making. Earlier in my undergraduate degree, I spent some time looking at the courses different Makerspaces across the world offer and charted out a course that we were to offer. In this time of "crisis", I am going back to my notes and running that course for myself. Feel free to join in as I do this! Here is a rough outline of the same:
 
-## Lecture
+- Week 1: Introduction to Making: Let people mess around, work with thermocol boards, cardboard tape, encourage different media, paints, yarns, waste parts. Complement this with a holistic walk-around of the makerspace, name machines, show what they can do, some things that have been made. The idea is to spark interest and imagination. Let’s also make sure whatever they make in this week, they can take back - this might be a good idea in general.
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+- Week 2: First Step of Prototyping: Bring in the design skills from the roster - sketching, basics of ED, CAD, CAM, PDS. Also talk about best ways to measure things/use measuring tools. Take away: One CAD model they want to 3D print, a CAM thingy, and PDS pattern they can sew 
+
+- Week 3: Safety Module I with guided usage of machines
+
+- Week 4 and Week 5: 3D printing, Laser-Cutting/CNC, Sewing Machines: Use these weeks to familiarize them with the machines and produce the designs they had created earlier. They can iterate over and over and print, cut, sew multiple things and (with a specified constraint) the world can be their oyster.
+ 
+- Week 6 and 7: Working with Microcontrollers: Walk them through what a microcontroller is and over the next two weeks have them MAKE A basic instructable project with a MCU and some sensors/ LEDs/ Motors with maybe something they made earlier in the course . Guide them through it. 
+
+- Week 8: Safety Module II with guided usage of machines
+
+- Week 9 and 10: Woodworking: Have them work with wood working tools - essentially heavy machinery. Start with screws, nuts, bolts, conventions, using hammers, drills and whatnots (maybe introduce it like a rage room session where you start the session by hammering). End with a small build thing?
+
+**Project month begins**
+
+- Week 10: Identify a University Client and an associated problems followed by a discussion on open source, making as an antithesis to capitalism + accessibility + classist and casteist notions associated with making in the Indian context
+
+- Week 11: Associated solutions with some constraints on the part being used and ideated upon and have the designs ready 
+- Week 12 and Week 13: low-fidelity prototypes? Base for further work and possibility that others can take up if interested or them in the summer as a side thing?
+
 
 ## Resources
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+**Week 1**
 
-## Assignments
+For this week, I will be working with cardboard, ice-cream sticks, paints, thermocol, and other similar supplies to be able to channel the child-like creativity that comes out in a playground. The idea is to have fun, think, and honestly let loose. Making is so often guarded behind softwares and machines and things to pick up, and while that is needed sometimes one forgets that the fulfillment that drives making can be accessible even without these guardrails.
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+Here is some material to go through before you begin:
+
+[MANDATORY]
+<object data="/assets/assets/The Most Magnificent Thing -- Ashley Spires -- 2014 -- 920f7aaf04d46725e275325ad55331d5 -- Anna’s Archive.pdf" type="application/pdf" width="700px" height="700px">
+<p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/assets/The Most Magnificent Thing -- Ashley Spires -- 2014 -- 920f7aaf04d46725e275325ad55331d5 -- Anna’s Archive.pdf">Download PDF</a>.</p>
+</object>
+
+[OPTIONAL] An article to understand the plethora of materials one can work with!
+[text](https://www.aknamarquez.com/blog/2018/diymaterials)
+
+See you in class! <3
