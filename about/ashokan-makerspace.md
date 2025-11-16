@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "The Ashokan Makerspace"
+parent: "About"
+nav_order: 1
 description: "Information about the Ashokan Makerspace"
 permalink: /about/ashokan-makerspace/
 ---

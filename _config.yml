@@ -78,6 +78,7 @@ liquid:
   error_mode: strict
   strict_filters: true
 
+nav_sort: false
 
 nav:
   - title: "Home"

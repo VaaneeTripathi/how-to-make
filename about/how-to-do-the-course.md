@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "How to do the course"
+parent: "About"
+nav_order: 3
 description: "Guidance for learners on how to participate in the course"
 permalink: /about/how-to-do-the-course/
 ---

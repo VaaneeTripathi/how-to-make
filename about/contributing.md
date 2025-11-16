@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Contributing"
+parent: "About"
+nav_order: 4
 description: "How to contribute to the course materials and site"
 permalink: /about/contributing/
 ---

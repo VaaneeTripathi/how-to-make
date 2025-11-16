@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Course outline"
+parent: "About"
+nav_order: 1
 description: "High-level outline for the course"
 permalink: /about/course-outline/
 ---

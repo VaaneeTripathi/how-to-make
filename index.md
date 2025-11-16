@@ -3,6 +3,7 @@ layout: home
 title: "Home"
 description: "A Self-Guided Course on Making"
 permalink: /
+nav_order: 1
 ---
 
 ## Introduction - "How to Make"
