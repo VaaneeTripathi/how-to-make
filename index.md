@@ -40,5 +40,5 @@ And with that, you can go and explore this website. The About section is a great
 
 See you there! 
 
-![Funny Meme with The Dictator gut standing next to a cactus looking glib saying Very nice, Great Success](assets/images/funny-meme-home)
+![Funny Meme with The Dictator gut standing next to a cactus looking glib saying Very nice, Great Success](assets/images/funny-meme-home-min.png)
 
