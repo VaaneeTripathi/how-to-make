@@ -77,3 +77,27 @@ compress_html:
 liquid:
   error_mode: strict
   strict_filters: true
+
+
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+    children:
+      - title: "Course outline"
+        url: "/about/course-outline/"
+      - title: "How to do the course"
+        url: "/about/how-to-do-the-course/"
+      - title: "Contributing"
+        url: "/about/contributing/"
+      - title: "The Ashokan Makerspace"
+        url: "/about/ashokan-makerspace/"
+  - title: "Curriculum"
+    url: "/modules/"
+    children:
+      - title: "Week 1"
+        url: "/modules/week-01/"
+      # add more weeks here as needed
+  - title: "Author"
+    url: "/author/"
