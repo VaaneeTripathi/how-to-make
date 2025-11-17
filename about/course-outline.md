@@ -53,7 +53,7 @@ Ideate solutions within defined constraints. Finalize designs and create detaile
 
 **Weeks 12–13: Low-Fidelity Prototyping**
 
-Build functional prototypes to test your ideas. These don't need to be perfect—they're foundations for iteration. If you don't continue the project, others might pick it up or refine it in the summer.
+Build functional prototypes to test your ideas. These don't need to be perfect—they're foundations for iteration. Since it is your project, you define the scope and the timeline. Make an estimate of your bandwidth and accordingly choose the project. If you're not able to finish it within the stipulated timeline, that's okay. You can always come back to it later or maybe someone can join you! 
 
 ---
 

@@ -7,7 +7,7 @@ description: "Information about the Ashokan Makerspace"
 permalink: /about/ashokan-makerspace/
 ---
 
-## The Ashoka Makerspace
+## The Ashokan Makerspace
 
 The Ashoka Makerspace is wonderland, fantasy theme park for craft kind what is in the bulb, art, tech, science nerds coded. It is a place built with love and joy and passion for the idea and philosophy of a Makerspace and what it should be. While the machines and the materials are not the thing that make the thing so great, but the people, the stuff is really cool (it's also kind of the stuff). Here is a list and some pictures for your pleasure!
 

@@ -10,7 +10,7 @@ permalink: /curriculum/week1/
 
 # Week 1
 
-For this week, we will be working with cardboard, ice-cream sticks, paints, thermocol, and other similar supplies to be able to channel the child-like creativity that comes out in a playground. The idea is to have fun, think, and honestly let loose. Making is so often guarded behind softwares and machines and things to pick up, and while that is needed sometimes one forgets that the fulfillment that drives making can be accessible even without these guardrails.
+For this week, **we will be working with cardboard, ice-cream sticks, paints, thermocol, and other similar supplies to be able to channel the child-like creativity that comes out in a playground. The idea is to have fun, think, and honestly let loose.** Making is so often guarded behind softwares and machines and things to pick up, and while that is needed sometimes one forgets that the fulfillment that drives making can be accessible even without these guardrails.
 
 First and foremost, 
 
